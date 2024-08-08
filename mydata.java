@@ -3,5 +3,7 @@ public class mydata{
         System.out.println("my");
         System.out.println("my");
         System.out.println("hi");
+
+        
     }
 }
